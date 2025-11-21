@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/immortal-music/stargazers"><img src="https://img.shields.io/github/stars/immortal-music/maythusharmusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/immortal-music/maythusharmusic/network/members"> <img src="https://img.shields.io/github/forks/immortal-music/maythusharmusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/immortal-music/maythusharmusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/maythu-shar-music/stargazers"><img src="https://img.shields.io/github/stars/immortal-music/maythusharmusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/maythu-shar-music/maythusharmusic/network/members"> <img src="https://img.shields.io/github/forks/immortal-music/maythusharmusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/maythu-shar-music/maythusharmusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/immortal-music/maythusharmusic/commits/immortal-music"> <img src="https://img.shields.io/github/last-commit/immortal-music/maythusharmusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/maythu-shar-music/maythusharmusic/commits/immortal-music"> <img src="https://img.shields.io/github/last-commit/immortal-music/maythusharmusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -28,7 +28,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/immortal-music/maythusharmusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/maythu-shar-music/maythusharmusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
 
@@ -44,7 +44,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/immortal-music/maythusharmusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/maythu-shar-music/maythusharmusic/blob/master/sample.env)
 ---
 
 ### 🔧 Quick Setup
@@ -68,7 +68,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/immortal-music/maythusharmusic && cd maythusharmusic
+   git clone https://github.com/maythu-shar-music/maythusharmusic && cd maythusharmusic
    ```
 6. **Install Requirements**
    ```bash
@@ -107,4 +107,4 @@
 <a href="https://t.me/sasukevipmusicbotsupport"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/immortal-music) ғᴏʀ [sᴀsᴜᴋᴇ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/sasukevipmusicbot)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/maythu-shar-music) ғᴏʀ [sᴀsᴜᴋᴇ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/sasukevipmusicbot)_</b>
